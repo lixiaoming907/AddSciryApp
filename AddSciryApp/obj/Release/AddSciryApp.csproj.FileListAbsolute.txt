@@ -1,0 +1,8 @@
+E:\VSProjects\AddSciryApp\AddSciryApp\bin\Release\AddSciryApp.exe.config
+E:\VSProjects\AddSciryApp\AddSciryApp\bin\Release\AddSciryApp.exe
+E:\VSProjects\AddSciryApp\AddSciryApp\bin\Release\AddSciryApp.pdb
+E:\VSProjects\AddSciryApp\AddSciryApp\obj\Release\AddSciryApp.文件加解密.resources
+E:\VSProjects\AddSciryApp\AddSciryApp\obj\Release\AddSciryApp.Properties.Resources.resources
+E:\VSProjects\AddSciryApp\AddSciryApp\obj\Release\AddSciryApp.csproj.GenerateResource.Cache
+E:\VSProjects\AddSciryApp\AddSciryApp\obj\Release\AddSciryApp.exe
+E:\VSProjects\AddSciryApp\AddSciryApp\obj\Release\AddSciryApp.pdb
